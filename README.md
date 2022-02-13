@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oyefule Oluwatayo, @gentcod
 - 👀 I’m interested in Web Development, UI/UX Design
-- 🌱 I’m currently learning Advanced CSS and Javascript
+- 🌱 I’m currently learning more on Javascript
 - 💞️ I’m looking to collaborate on Web Design Projects
 - 📫 How to reach me email: drelanorgent@gmail.com:
 - LinkedIn: https://www.linkedin.com/in/oyefule-oluwatayo-68425a106/
