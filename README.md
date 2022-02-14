@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oyefule Oluwatayo, @gentcod
-- 👀 I’m interested in Web Development, UI/UX Design
+- 👀 I’m interested in Web Developmentand and UI/UX Design
 - 🌱 I’m currently learning more on Javascript
 - 💞️ I’m looking to collaborate on Web Design Projects
 - 📫 How to reach me email: drelanorgent@gmail.com:
