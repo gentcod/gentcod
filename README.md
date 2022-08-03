@@ -1,14 +1,12 @@
 - 👋 Hi, I’m Oyefule Oluwatayo, @gentcod
-- 👀 I’m interested in Web Developmentand and UI/UX Design
-- 🌱 I’m currently learning more on Javascript, NodeJS, React and Web3
-- 💞️ I’m looking to collaborate on Web Design Projects
+- 👀 I’m interested in Web Development and and UI/UX Design
+- 🌱 I’m currently learning more on NodeJS, React and Machine Learning
+- 💞️ I’m looking to collaborate on Web Design and Web Development Projects
 - 📫 How to reach me email: drelanorgent@gmail.com:
-- LinkedIn: https://www.linkedin.com/in/oyefule-oluwatayo-68425a106/
-- Twitter: https://www.twitter.com/gentcod
-- Instagram: https://www.instagram.com/gentcod 
-- Facebook: https://www.https://www.facebook.com/oyefule.o.oluwademilade/
+- Portfolio 🕵🏾‍♂️: [Oyefule Oluwatayo](https://www.oyefuleoluwatayo.netlify.app)
+- LinkedIn 🤵🏾: [Oyefule Oluwatayo](https://www.linkedin.com/in/oyefule-oluwatayo)
+- Twitter 🧙🏾‍♂️: [gentcod](https://www.twitter.com/gentcod)
+- Instagram 📷: [gentcod](https://www.instagram.com/gentcod)
+- Facebook 👴🏾: [Oyefule Oluwatayo](https://www.https://www.facebook.com/oyefule.o.oluwademilade/)
 
-<!---
-gentcod/gentcod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
