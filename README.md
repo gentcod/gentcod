@@ -11,7 +11,7 @@
 <div align='center'>
 <a href="https://oyefuleoluwatayo.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-oyefule%20oo-8a7560?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/oyefule-oluwatayo" target="_blank"><img src="https://img.shields.io/badge/-oyefule%20oluwatayo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://mailto:drelanorgent@gmail.com?subject=JOB%20OFFER&body=Hello%20Oyefule,%20I%20would%20like%20to%20hire%20you" target="_blank"><img src="https://img.shields.io/badge/-oyefule%20oo-d1d1c8?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://mailto:drelanorgent@gmail.com?subject=JOB%20OFFER&body=Hello%20Oyefule,%20I%20would%20like%20to%20hire%20you" target="_blank"><img src="https://img.shields.io/badge/-oyefule%20oo-0F9D58?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.twitter.com/gentcod" target="_blank"><img src="https://img.shields.io/badge/-gentcod-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.instagram.com/gentcod" target="_blank"><img src="https://img.shields.io/badge/-gentcod-bc2a8d?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/oyefule.oluwatayo" target="_blank"><img src="https://img.shields.io/badge/-oyefule%20oluwatayo-3b5998?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
@@ -37,7 +37,7 @@
 ![React](https://img.shields.io/badge/-React-1c2c4c?style=flat&logo=react&logoColor=61dbfb)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=5C3EE8)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-35620A?style=flat&logo=typescripts)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05123A?style=flat&logo=typescript&logoColor=007acc)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -49,5 +49,7 @@
 ##
 
 <p align='center'>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gentcod&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gentcod&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+
 </p>
