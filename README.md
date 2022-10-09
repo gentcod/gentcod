@@ -11,7 +11,7 @@
 <div align='center'>
 <a href="https://oyefuleoluwatayo.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-oyefule%20oo-8a7560?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/oyefule-oluwatayo" target="_blank"><img src="https://img.shields.io/badge/-oyefule%20oluwatayo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://mailto:drelanorgent@gmail.com?subject=JOB%20OFFER&body=Hello%20Oyefule,%20I%20would%20like%20to%20hire%20you" target="_blank"><img src="https://img.shields.io/badge/-oyefule%20oo-0F9D58?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://mailto:drelanorgent@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-oyefule%20oo-0F9D58?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.twitter.com/gentcod" target="_blank"><img src="https://img.shields.io/badge/-gentcod-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.instagram.com/gentcod" target="_blank"><img src="https://img.shields.io/badge/-gentcod-bc2a8d?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/oyefule.oluwatayo" target="_blank"><img src="https://img.shields.io/badge/-oyefule%20oluwatayo-3b5998?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
