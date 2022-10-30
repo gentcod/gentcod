@@ -40,6 +40,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05123A?style=flat&logo=typescript&logoColor=007acc)&nbsp;
 ![Node.js](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express-808080?style=flat&logo=express&logoColor=eee)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat&logo=mongodb&logoColor=green)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
