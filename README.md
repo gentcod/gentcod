@@ -35,6 +35,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=f2ece4)&nbsp;
 ![React](https://img.shields.io/badge/-React-1c2c4c?style=flat&logo=react&logoColor=61dbfb)&nbsp;
+![.Net](https://img.shields.io/badge/-.NET-5D3FD3?style=flat&logo=.net&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-800080?style=flat&logo=csharp&logoColor=white)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=5C3EE8)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05123A?style=flat&logo=typescript&logoColor=007acc)&nbsp;
