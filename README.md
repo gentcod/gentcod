@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Oyefule Oluwatayo, @gentcod
-- 👀 I’m into Web Development and and UI/UX Designs
-- 🌱 I’m currently learning more on NodeJS, Go and Machine Learning
-- 💞️ I’m interested in job openings for Frontend Development and building Websites and Web Applications
+- 👀 I’m into Web Development and and UI/UX Designs.
+- 💞️ I’m interested in job openings for Frontend Developer, Backend Developer and Fullstack Developer.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=792354&width=435&lines=Hey!+I'm+Oye%2C+a+Frontend+Developer.;Working+towards+Fullstack%F0%9F%98%89)](https://git.io/typing-svg)
 
