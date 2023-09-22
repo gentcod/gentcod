@@ -30,17 +30,19 @@
 
 ### 💻 &nbsp;Tech Stack
 
+![.Net](https://img.shields.io/badge/-.NET-5D3FD3?style=flat&logo=.net&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-800080?style=flat&logo=csharp&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![React](https://img.shields.io/badge/-React-1c2c4c?style=flat&logo=react&logoColor=61dbfb)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05123A?style=flat&logo=typescript&logoColor=007acc)&nbsp;
+![Python](https://img.shields.io/badge/-Python-007acc?style=flat&logo=python&logoColor=ffe873)&nbsp;
+![GoLang](https://img.shields.io/badge/-GoLang-white?style=flat&logo=go&logoColor=29beb0)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=f2ece4)&nbsp;
-![React](https://img.shields.io/badge/-React-1c2c4c?style=flat&logo=react&logoColor=61dbfb)&nbsp;
-![.Net](https://img.shields.io/badge/-.NET-5D3FD3?style=flat&logo=.net&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-800080?style=flat&logo=csharp&logoColor=white)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=5C3EE8)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05123A?style=flat&logo=typescript&logoColor=007acc)&nbsp;
-![Node.js](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express-808080?style=flat&logo=express&logoColor=eee)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=5C3EE8)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat&logo=mongodb&logoColor=green)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
