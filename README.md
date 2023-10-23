@@ -19,15 +19,19 @@
 
 ##
 
-<div align="center">
+<div align="center" style="display:flex;">
 <a href="https://www.github.com/gentcod">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gentcod&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gentcod&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gentcod&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+
+##
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentcod&langs_count=12&layout=compact&count_private=true&hide=html,css"/>
 </a>
 </div>
 
 ##
-
 
 ### 💻 &nbsp;Tech Stack
 
