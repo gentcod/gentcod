@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Oyefule Oluwatayo, @gentcod
 - 👀 I’m into Software Development.
-- 💞️ I’m interested in job openings for Frontend Developer, Backend Developer and Fullstack Developer.
 - 🤓 I love exploring new things, understanding how things work, gaining and sharing knowledge.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=792354&width=435&lines=Hey!+I'm+Oyefule...;A+Fullstack+Developer%F0%9F%98%89)](https://git.io/typing-svg)
