@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oyefule Oluwatayo, @gentcod
-- 👀 I’m into Software Development.
-- 🤓 I love exploring new things, understanding how things work, gaining and sharing knowledge.
+- 👀 I’m into Backend and DevOps. I have some Frontend technical skills as well.
+- 🤓 I have firm interest in building cloud native applications. Providing software solutions that impact the positive outlook businesses and their customers.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=792354&width=435&lines=Hey!+I'm+Oyefule...;A+Software+Engineer%F0%9F%98%89)](https://git.io/typing-svg)
 
@@ -34,19 +34,24 @@
 
 ### 💻 &nbsp;Tech Stack
 
-![.Net](https://img.shields.io/badge/-.NET-5D3FD3?style=flat&logo=.net&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-800080?style=flat&logo=csharp&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![React](https://img.shields.io/badge/-React-1c2c4c?style=flat&logo=react&logoColor=61dbfb)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05123A?style=flat&logo=typescript&logoColor=007acc)&nbsp;
-![Python](https://img.shields.io/badge/-Python-007acc?style=flat&logo=python&logoColor=ffe873)&nbsp;
 ![GoLang](https://img.shields.io/badge/-GoLang-white?style=flat&logo=go&logoColor=29beb0)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05123A?style=flat&logo=typescript&logoColor=007acc)&nbsp;
+![Node.js](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![.Net](https://img.shields.io/badge/-.NET-5D3FD3?style=flat&logo=.net&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-fff?style=flat&logo=linux)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-800080?style=flat&logo=csharp&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-007acc?style=flat&logo=python&logoColor=ffe873)&nbsp;
+![React](https://img.shields.io/badge/-React-1c2c4c?style=flat&logo=react&logoColor=61dbfb)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=f2ece4)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express-808080?style=flat&logo=express&logoColor=eee)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=5C3EE8)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-Postgres-0064a5?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-00758f?style=flat&logo=mysql&logoColor=f29111)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat&logo=mongodb&logoColor=green)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
