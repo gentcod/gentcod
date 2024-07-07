@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oyefule Oluwatayo, @gentcod
 - 👀 I’m into Backend and DevOps. I have some Frontend technical skills as well.
-- 🤓 I have firm interest in building cloud native applications. Providing software solutions that impact the positive outlook businesses and their customers.
+- 🤓 I have firm interest in building cloud native applications. Providing software solutions that impact the positive outlook for businesses and their customers.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=792354&width=435&lines=Hey!+I'm+Oyefule...;A+Software+Engineer%F0%9F%98%89)](https://git.io/typing-svg)
 
