@@ -50,13 +50,18 @@ I architect scalable, high-performance software solutions that transform busines
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-232f3e?style=flat&logo=amazon&logoColor=ff9900)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ### Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/-Postgres-0064a5?style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat&logo=mongodb&logoColor=green)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-00758f?style=flat&logo=mysql&logoColor=f29111)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+
+### Tools
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![gRPC](https://img.shields.io/badge/-gRPC-0064a5?style=flat&logo=rpc&logoColor=white)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-eee?style=flat&logo=graphql&logoColor=ee7aa4)&nbsp;
+![CI/CD](https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=cicd&logoColor=FFCA28)&nbsp;
 
 ## 🚀 Featured Projects
 
