@@ -20,16 +20,22 @@ I architect scalable, high-performance software solutions that transform busines
 <a href="https://www.github.com/gentcod" target="_blank"><img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
+## 🥇🥇🥇 Badges
+<img src="https://github.com/user-attachments/assets/1ede5ad3-b4a7-4820-b88e-c6eb73233f30" alt="Meshery Security Sentinel Image" width="20%"/>
+
 ## 📊 GitHub Analytics
 
-<div align="center" style="display:flex;">
-<a href="https://www.github.com/gentcod">
-  <img height="180em" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gentcod&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentcod&langs_count=12&layout=compact&count_private=true&hide=html,css"/>
-</a>
+<div align=center style="display:flex; justify-content:center; align-items:center; column-gap:2rem">
+  <div style="width:50%">
+    <a href="https://www.github.com/gentcod">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gentcod&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    </a>
+  </div>
+  <div style="width:50%">
+    <a href="#">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentcod&langs_count=12&layout=compact&count_private=true&hide=html,css"/>
+    </a>
+  </div>
 </div>
 
 ## 💻 Core Technology Stack
