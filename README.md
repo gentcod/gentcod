@@ -83,7 +83,7 @@ I architect scalable, high-performance software solutions that transform busines
 
 ## 🏆 Professional Highlights
 <!-- - Contributor to CNCF Projects: Meshery, Jaeger -->
-- Contributor to CNCF Projects
+<!-- - Contributor to CNCF Projects -->
 - Google Associate Cloud Engineer Certified
 
 ## &nbsp;Activity Graph
@@ -93,5 +93,16 @@ I architect scalable, high-performance software solutions that transform busines
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=gentcod&bg_color=1F222E&color=F8D866&line=345a6a&point=FFFFFF&hide_border=true) 
 
 </p>
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=gentcod&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=gentcod&theme=gruvbox)
+
+<!-- ---
+[![An image of @rohansen856's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gentcod)](https://holopin.io/@gentcod)
+
+ [![](https://visitcount.itsvg.in/api?id=gentcod&icon=1&color=0)](https://visitcount.itsvg.in) -->
 
 *Transforming complex challenges into elegant, scalable software solutions*
