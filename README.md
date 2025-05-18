@@ -1,8 +1,8 @@
-# 👋 Oyefule Oluwatayo | Cloud Native Software Engineer
+# 👋 Oyefule Oluwatayo  Software Engineer
 
 ## Professional Profile
 
-🚀 Backend Engineer | DevOps Specialist | Cloud Native Innovator
+🚀 Backend Engineer | DevOps | Product-Minded
 
 I architect scalable, high-performance software solutions that transform business capabilities through cutting-edge cloud-native technologies. Specializing in bridging development, operations, and strategic business objectives with innovative technological solutions.
 
