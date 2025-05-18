@@ -69,6 +69,7 @@ I architect scalable, high-performance software solutions that transform busines
 ![GraphQL](https://img.shields.io/badge/-GraphQL-eee?style=flat&logo=graphql&logoColor=ee7aa4)&nbsp;
 ![CI/CD](https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=cicd&logoColor=FFCA28)&nbsp;
 
+<!--
 ## 🚀 Featured Projects
 
 ### [NLP-to-SQL](https://github.com/gentcod/nlp-to-sql): Intelligent Database Interaction
@@ -80,8 +81,8 @@ I architect scalable, high-performance software solutions that transform busines
 - Developed using GoLang, Shell and Docker
 - Implemented to work as a GitHub Action 
 - Developed to securely access virtual machines and automate server initialization
-
-## 🏆 Professional Highlights
+-->
+## 🏆 Highlights and Certifications
 <!-- - Contributor to CNCF Projects: Meshery, Jaeger -->
 <!-- - Contributor to CNCF Projects -->
 - Google Associate Cloud Engineer Certified
