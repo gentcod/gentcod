@@ -21,10 +21,11 @@ I architect scalable, high-performance software solutions that transform busines
 </div>
 
 ## 🥇🥇🥇 Badges
-<img src="https://github.com/user-attachments/assets/1ede5ad3-b4a7-4820-b88e-c6eb73233f30" alt="Meshery Security Sentinel Image" width="20%"/>
+<a href= "https://cloud.layer5.io/user/1a4f1dba-9e37-41ab-b17b-4238038cb090?tab=badges&badge=security-sentinel" >
+  <img width="20%" src = "https://badges.layer5.io/assets/badges/security-sentinel/security-sentinel.png" alt = "Meshery Security Sentinel" />
+</a >
 
 ## 📊 GitHub Analytics
-
 <div align=center style="display:flex; justify-content:center; align-items:center; column-gap:2rem">
   <div style="width:50%">
     <a href="https://www.github.com/gentcod">
