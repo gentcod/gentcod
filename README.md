@@ -1,4 +1,4 @@
-# 👋 Oyefule Oluwatayo [ Software Engineer ]
+# 👋 Adenola Adelekan [ Software Engineer ]
 
 ## Professional Profile
 
@@ -11,7 +11,7 @@ I architect scalable, high-performance software solutions that transform busines
 - Implementing robust DevOps practices
 - Creating scalable, secure backend infrastructure
 - Solving complex technological challenges with elegant solutions
-
+<!--
 ### :link: &nbsp;Connect with me
 <div align='center'>
 <a href="https://oyefuleoluwatayo.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-8a7560?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
@@ -19,7 +19,7 @@ I architect scalable, high-performance software solutions that transform busines
 <a href="mailto:oyefuleoluwatayo@gmail.com?subject=Professional%20Opportunity" target="_blank"><img src="https://img.shields.io/badge/-Email-0F9D58?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.github.com/gentcod" target="_blank"><img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
-
+-->
 ## 🥇🥇🥇 Badges
 <a href= "https://cloud.layer5.io/user/1a4f1dba-9e37-41ab-b17b-4238038cb090?tab=badges&badge=security-sentinel" >
   <img width="20%" src = "https://badges.layer5.io/assets/badges/security-sentinel/security-sentinel.png" alt = "Meshery Security Sentinel" />
