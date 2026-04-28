@@ -1,4 +1,4 @@
-# 👋 Adenola Adelekan [ Software Engineer ]
+# 👋 Ademola Adelekan [ Software Engineer ]
 
 ## Professional Profile
 
